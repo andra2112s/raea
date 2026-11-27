@@ -1,0 +1,8 @@
+# render output + sumber media berat (reproducible dari .tsx + script)
+frames/
+frames2/
+frames3/
+reel-frames/
+koan-frames/
+media/
+*.mp4

@@ -1,0 +1,16 @@
+{
+  "edit": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "cuts": [
+    {
+      "take": "take",
+      "file": "media/take.mp4",
+      "from": 5,
+      "to": 25,
+      "line": ""
+    }
+  ]
+}
